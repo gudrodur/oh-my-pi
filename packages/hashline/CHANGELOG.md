@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- After accepted `PUT` edits, the model is instructed to re-read the touched span and verify neighboring definitions survived.
+
 ## [18.0.4] - 2026-08-24
 
 ### Changed
